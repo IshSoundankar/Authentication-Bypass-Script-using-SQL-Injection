@@ -25,13 +25,6 @@ Headers: Custom headers are set for the HTTP request.
 Payload: SQL injection payload used for the username field.
 Response Handling: Checks if the response contains a specific pattern (Dashboard) indicating successful login.
 
-
-Example Output
-Copy code
-Enter URL: http://example.com/login.php
-[+] Authentication bypassed using the following payload: username=%27+or+%271%27%3D%271%27%23&password=asdasd&login=
-
-
 Notes
 This script is for educational purposes only and should not be used maliciously.
 Always ensure you have permission to test on the target application.
