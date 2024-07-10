@@ -15,8 +15,13 @@ Script Execution:
 
 
 Script Details
+
 Script File: auth_bypass_sqli.py
+
+
 Dependencies: requests, re (built-in)
+
+
 Payload Used: ' or '1'='1'# (username=%27+or+%271%27%3D%271%27%23&password=asdasd&login=)
 
 Documentation
