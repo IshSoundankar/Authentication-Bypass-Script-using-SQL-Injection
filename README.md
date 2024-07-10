@@ -7,8 +7,10 @@ Environment Setup: Ensure Python 3.x and the requests library are installed. Thi
 
 Script Execution:
 
-1)Run the script and enter the target URL when prompted./n
-2)The script sends a crafted payload to attempt authentication bypass./n
+1)Run the script and enter the target URL when prompted.
+
+2)The script sends a crafted payload to attempt authentication bypass.
+
 3)It checks the response for indications of successful bypass.
 
 
